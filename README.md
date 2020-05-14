@@ -1,1 +1,1 @@
-# ML-exercises
+# ML-Projects
